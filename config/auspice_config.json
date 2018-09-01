@@ -1,0 +1,18 @@
+{
+  "title": "MERS-CoV spillover at the camel-human interface",
+  "color_options": {
+    "host": {
+      "menuItem": "host",
+      "legendTitle": "Host",
+      "type": "discrete",
+      "key": "host"
+    }
+  },
+  "maintainer": [
+    "Dudas G, Max Carvalho L, Rambaut A, Bedford T",
+    "https://bedford.io/papers/dudas-mers-structure/"
+  ],
+  "panels": [
+    "tree"
+  ]
+}
