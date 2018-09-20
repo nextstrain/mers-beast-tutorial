@@ -34,7 +34,3 @@ augur export \
   --output-tree auspice/mers-beast-tutorial_tree.json \
   --output-meta auspice/mers-beast-tutorial_meta.json
 ```
-
-# Augur version
-
-Currently, use branch `export-safety-checks` in augur.
